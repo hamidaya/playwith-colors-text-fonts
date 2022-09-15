@@ -1,0 +1,17 @@
+body {
+    background-color: #DFD9E2;
+    color: #535865;
+    list-style: url('../../front-end-oefenen/fototjes/exercise-css-1.png');}
+
+/*noinspection CssInvalidPropertyValue*/
+h1, h2 {
+    font-family: 'poppins', sans-serif;
+    color: #535865;
+    font-weight: 300, 400
+
+}
+
+.contrast {
+    color: #865B9A
+}
+
